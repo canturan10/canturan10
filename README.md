@@ -1,12 +1,12 @@
 # 👋 Hello there
 
-I'm Oğuzcan Turan. I'm a new graduated computer engineer.
+I'm Oğuzcan Turan. I'm a Machine Learning Engineer.
 
 I had the opportunity to study and do an internship for 4 months in Brighton, England. I have successfully completed this opportunity, which is the most important beginning of my career on computer.
 
 In 2015, I won the Department of Computer Engineering at the University of Turkish Aeronautical Association and graduated as an Honor Student in 2020.
 
-At the same time, as a freelancer, I work on different topics and I enjoy supporting entrepreneurial people like me.
+I am currently working as a Machine Learning Engineer at TURK AI company. At the same time, I enjoy supporting entrepreneurial people like myself.
 
 ![GitHub visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fcanturan10.canturan10%2Freadme)
 
@@ -32,7 +32,7 @@ At the same time, as a freelancer, I work on different topics and I enjoy suppor
 
 ## 💼 Job
 
-I'm looking for a job now. I continue to improve myself in this process.
+![Linkedin Badge](https://img.shields.io/badge/TURK%20AI-Machine%20Learning%20Engineer-blue?style=social)
 
 ## ✉️️ Contact Details
 
