@@ -10,7 +10,7 @@
 
 I am currently working as a `Machine Learning Engineer` at `TURK AI`
 
-I graduated from the `Computer Engineering` Department of the Turkish Aeronautical Association as an `Honorary Student`.
+I graduated from the `Computer Engineering` Department of the University of the Turkish Aeronautical Association as an `Honorary Student`.
 
 I have `ranked` projects in different events and competitions.
 
