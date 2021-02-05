@@ -34,29 +34,29 @@ I enjoy supporting `entrepreneurial` people like myself.
 <h2>🔥 Some of My Projects</h2> 
 
 <p align="center"> 
-  <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-🔁%20Simurg-000?)](https://canturan10.github.io/project-11.html"/>
+  <a href="https://canturan10.github.io/project-11.html">
+    <img  src="https://img.shields.io/badge/-🔁%20Simurg-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-💬%20Museum%20Assistant-000?)](https://canturan10.github.io/project-10.html"/>
+<a href="https://canturan10.github.io/project-10.html">
+    <img  src="https://img.shields.io/badge/-💬%20Museum%20Assistant-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-🎧%20Call%20Center%20Performance-000?)](https://canturan10.github.io/project-9.html"/>
+<a href="https://canturan10.github.io/project-9.html">
+    <img  src="https://img.shields.io/badge/-🎧%20Call%20Center%20Performance-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-🛡️%20Cyber%20Rex-000?)](https://canturan10.github.io/project-8.html"/>
+<a href="https://canturan10.github.io/project-8.html">
+    <img  src="https://img.shields.io/badge/-🛡️%20Cyber%20Rex-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-📈%20Classification-000?)](https://canturan10.github.io/project-6.html"/>
+<a href="https://canturan10.github.io/project-6.html">
+    <img  src="https://img.shields.io/badge/-📈%20Classification-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-🔓%20Ransomware-000?)](https://canturan10.github.io/project-5.html"/>
+<a href="https://canturan10.github.io/project-5.html">
+    <img  src="https://img.shields.io/badge/-🔓%20Ransomware-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-🎓%20SharEx%20%2F%20Share%20Experience-000?)](https://canturan10.github.io/project-4.html"/>
+<a href="https://canturan10.github.io/project-4.html">
+    <img  src="https://img.shields.io/badge/-🎓%20SharEx%20%2F%20Share%20Experience-000?"/>
   </a>
-<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
-    <img  src="https://img.shields.io/badge/-💳%20Bank%2FATM%20Management%20System-000?)](https://canturan10.github.io/project-3.html"/>
+<a href="https://canturan10.github.io/project-3.html">
+    <img  src="https://img.shields.io/badge/-💳%20Bank%2FATM%20Management%20System-000?"/>
   </a>
 </p>
 
@@ -64,7 +64,7 @@ I enjoy supporting `entrepreneurial` people like myself.
   <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Susam-Sokagi&repo=Muze-Asistani&theme=highcontrast"/>
   </a>
-  <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+  <a href="https://github.com/canturan10/Sharex">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=Sharex&theme=highcontrast"/>
   </a>
   <a href="https://github.com/canturan10/canturan10.github.io">
