@@ -1,43 +1,89 @@
-# 👋 Hello there
+<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Oğuzcan Turan</h1>
 
-I'm Oğuzcan Turan. I'm a Machine Learning Engineer.
+<img align="right" src="src/source.png" alt="may-the-source-be-with-you" width="150" />
 
-I had the opportunity to study and do an internship for 4 months in Brighton, England. I have successfully completed this opportunity, which is the most important beginning of my career on computer.
+<h2>🕶 About Me</h2> 
 
-In 2015, I won the Department of Computer Engineering at the University of Turkish Aeronautical Association and graduated as an Honor Student in 2020.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canturan10/)](https://www.linkedin.com/in/canturan10/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white&link=mailto:can.turan.10@gmail.com)](mailto:can.turan.10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=opera&logoColor=white&link=https://canturan10.github.io/)](https://canturan10.github.io/)
 
-I am currently working as a Machine Learning Engineer at TURK AI company. At the same time, I enjoy supporting entrepreneurial people like myself.
+I am currently working as a `Machine Learning Engineer` at `TURK AI`
 
-![GitHub visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fcanturan10.canturan10%2Freadme)
+I graduated from the `Computer Engineering` Department of the Turkish Aeronautical Association as an `Honorary Student`.
 
-![Oğuzcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canturan10&show_icons=true&theme=algolia)
+I have `ranked` projects in different events and competitions.
 
+I enjoy supporting `entrepreneurial` people like myself.
 
-## 🔥 Some of My Projects
+<br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Susam-Sokagi&repo=Muze-Asistani&theme=vision-friendly-dark)](https://github.com/Susam-Sokagi/Muze-Asistani) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Susam-Sokagi&repo=albert-qa&theme=highcontrast)](https://github.com/Susam-Sokagi/albert-qa)
+<h2>⚙️ GitHub Analytics</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=Sharex&theme=chartreuse-dark)](https://github.com/canturan10/Sharex) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=canturan10.github.io&theme=midnight-purple)](https://github.com/canturan10/canturan10.github.io)
+<p align="center">
+  <a href="https://github.com/canturan10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=canturan10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  </a>
+  <!---
+  <a href="https://github.com/canturan10">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=canturan10&theme=nord&no-bg=true&no-frame=true"/>
+  </a>
+  --->
+</p>
 
+<h2>🔥 Some of My Projects</h2> 
 
-[![ReadMe Card](https://img.shields.io/badge/🔁-Simurg-orange?style=for-the-badge)](https://canturan10.github.io/project-11.html) &nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/💬-Museum%20Assistant-blueviolet?style=for-the-badge)](https://canturan10.github.io/project-10.html)&nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/🎧-Call%20Center-succes?style=for-the-badge)](https://canturan10.github.io/project-9.html)&nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/🛡️-C%2FRex-yellow?style=for-the-badge)](https://canturan10.github.io/project-8.html)&nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/📈-Classification-ff69b4?style=for-the-badge)](https://canturan10.github.io/project-6.html)&nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/🔓-Ransomware-red?style=for-the-badge)](https://canturan10.github.io/project-5.html)&nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/🎓-SharEx%20%2F%20Share%20Experience-inactive?style=for-the-badge)](https://canturan10.github.io/project-4.html)&nbsp;&nbsp;&nbsp;
-[![ReadMe Card](https://img.shields.io/badge/💳-Bank%2FATM%20Management%20System-9cf?style=for-the-badge)](https://canturan10.github.io/project-3.html)
+<p align="center"> 
+  <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-🔁%20Simurg-000?)](https://canturan10.github.io/project-11.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-💬%20Museum%20Assistant-000?)](https://canturan10.github.io/project-10.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-🎧%20Call%20Center%20Performance-000?)](https://canturan10.github.io/project-9.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-🛡️%20Cyber%20Rex-000?)](https://canturan10.github.io/project-8.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-📈%20Classification-000?)](https://canturan10.github.io/project-6.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-🔓%20Ransomware-000?)](https://canturan10.github.io/project-5.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-🎓%20SharEx%20%2F%20Share%20Experience-000?)](https://canturan10.github.io/project-4.html"/>
+  </a>
+<a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img  src="https://img.shields.io/badge/-💳%20Bank%2FATM%20Management%20System-000?)](https://canturan10.github.io/project-3.html"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Susam-Sokagi&repo=Muze-Asistani&theme=highcontrast"/>
+  </a>
+  <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=Sharex&theme=highcontrast"/>
+  </a>
+  <a href="https://github.com/canturan10/canturan10.github.io">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=canturan10.github.io&theme=highcontrast"/>
+  </a>
+</p>
 
-## 💼 Job
+<br>
 
-![Linkedin Badge](https://img.shields.io/badge/TURK%20AI-Machine%20Learning%20Engineer-blue?style=social)
-
-## ✉️️ Contact Details
-
-You can find and get touch with me on these accounts!
-
-[![Linkedin Badge](https://img.shields.io/badge/canturan10-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/canturan10/)
-
-[![Gmail Badge](https://img.shields.io/badge/can.turan.10@gmail.com-sent%20mail-red?style=for-the-badge&logo=gmail)](mailto:can.turan.10@gmail.com)
+<p align="center">
+by the way..
+<p>
+<p align="center">
+  <a>
+    <img src="https://www.nbcsports.com/sites/rsnunited/files/archive/assets_article/bayarea/2020/04/10/donttryit.gif" width="200px"/>
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/canturan10">
+    <img  src="https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fcanturan10.canturan10%2Freadme"/>
+  </a>
+</p>
