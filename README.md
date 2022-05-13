@@ -3,19 +3,18 @@
 
 <img align="right" src="src/source.png" alt="may-the-source-be-with-you" width="150" />
 
-<h2>🕶 About Me</h2>
+<h2>🛸 About Me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canturan10/)](https://www.linkedin.com/in/canturan10/)
-[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white&link=mailto:can.turan.10@gmail.com)](mailto:can.turan.10@gmail.com)
-[![Page Badge](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=opera&logoColor=white&link=https://canturan10.github.io/)](https://canturan10.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canturan10/)](https://www.linkedin.com/in/canturan10/)
+[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:can.turan.10@gmail.com)](mailto:can.turan.10@gmail.com)
+[![Page Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=opera&logoColor=white&link=https://canturan10.github.io/)](https://canturan10.github.io/)
+[![Support Badge](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-orange?style=for-the-badge&logo=Buy-me-a-coffee&logoColor=white&link=https://canturan10.github.io/)](https://www.buymeacoffee.com/canturan10)
 
 Creative `Machine Learning Engineer` with 3+ years’ experience working in `Computer Vision` and `Natural Language Processing`.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/canturan10)
-
 <br>
 
-<h2>⚙️ GitHub Analytics</h2>
+<h2>🚀 GitHub Analytics</h2>
 
 <p align="center">
  <a href="https://github.com/canturan10">
@@ -29,7 +28,7 @@ Creative `Machine Learning Engineer` with 3+ years’ experience working in `Com
   - -->
 </p>
 
-<h2>🔥 Some of My Projects</h2>
+<h2>🛰 Some of My Projects</h2>
 
 <p align="center">
  <a href="https://canturan10.github.io/satellighte/">
