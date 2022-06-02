@@ -1,4 +1,4 @@
-<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px"> I'm
+<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"> I'm
  Oğuzcan Turan</h1>
 
 <img align="right" src="src/source.png" alt="may-the-source-be-with-you" width="150" />
