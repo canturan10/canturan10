@@ -10,7 +10,7 @@
 [![Page Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=opera&logoColor=white&link=https://canturan10.github.io/)](https://canturan10.github.io/)
 [![Support Badge](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-orange?style=for-the-badge&logo=Buy-me-a-coffee&logoColor=white&link=https://canturan10.github.io/)](https://www.buymeacoffee.com/canturan10)
 
-Creative `Machine Learning Engineer` with 3+ years’ experience working in `Computer Vision` and `Natural Language Processing`.
+Creative `Machine Learning Engineer` with 3+ years’ experience in `Natural Language Processing` and `Speech`, especially in `Computer Vision`.
 
 <br>
 
@@ -31,48 +31,27 @@ Creative `Machine Learning Engineer` with 3+ years’ experience working in `Com
 <h2>🛰 Some of My Projects</h2>
 
 <p align="center">
- <a href="https://canturan10.github.io/satellighte/">
-  <img src="https://img.shields.io/badge/-📡%20Satellighte-000?" />
+ 
+ <a href="https://github.com/canturan10/light_side">
+  <img width="330em" height="130em"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=light_side&theme=highcontrast" />
  </a>
- <a href="https://canturan10.github.io/project-11.html">
-  <img src="https://img.shields.io/badge/-🔁%20Simurg-000?" />
- </a>
- <a href="https://canturan10.github.io/project-10.html">
-  <img src="https://img.shields.io/badge/-💬%20Museum%20Assistant-000?" />
- </a>
- <a href="https://canturan10.github.io/project-9.html">
-  <img src="https://img.shields.io/badge/-🎧%20Call%20Center%20Performance-000?" />
- </a>
- <a href="https://canturan10.github.io/project-8.html">
-  <img src="https://img.shields.io/badge/-🛡️%20Cyber%20Rex-000?" />
- </a>
- <a href="https://canturan10.github.io/project-6.html">
-  <img src="https://img.shields.io/badge/-📈%20Classification-000?" />
- </a>
- <a href="https://canturan10.github.io/project-5.html">
-  <img src="https://img.shields.io/badge/-🔓%20Ransomware-000?" />
- </a>
- <a href="https://canturan10.github.io/project-4.html">
-  <img src="https://img.shields.io/badge/-🎓%20SharEx%20%2F%20Share%20Experience-000?" />
- </a>
- <a href="https://canturan10.github.io/project-3.html">
-  <img src="https://img.shields.io/badge/-💳%20Bank%2FATM%20Management%20System-000?" />
- </a>
-</p>
-
-<p align="center">
+ 
  <a href="https://github.com/canturan10/satellighte">
   <img width="330em" height="130em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=satellighte&theme=highcontrast" />
  </a>
+ 
  <a href="https://github.com/Susam-Sokagi/Muze-Asistani">
   <img width="330em" height="130em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=Susam-Sokagi&repo=Muze-Asistani&theme=highcontrast" />
  </a>
+ 
  <a href="https://github.com/canturan10/satellighte-streamlit">
   <img width="330em" height="130em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=satellighte-streamlit&theme=highcontrast" />
  </a>
+ 
  <a href="https://github.com/canturan10/readme-template">
   <img width="330em" height="130em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=readme-template&theme=highcontrast" />
@@ -82,6 +61,12 @@ Creative `Machine Learning Engineer` with 3+ years’ experience working in `Com
   <img width="330em" height="130em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=canturan10.github.io&theme=highcontrast" />
  </a>
+ 
+ <a href="https://github.com/canturan10/light-side-streamlit">
+  <img width="330em" height="130em"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=canturan10&repo=light-side-streamlit&theme=highcontrast" />
+ </a>
+ 
 </p>
 
 <p align="center">
